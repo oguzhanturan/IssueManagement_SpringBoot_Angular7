@@ -1,0 +1,4 @@
+tablolar oluþmamýþsa 
+
+Just go to the H2 console for example at: http://localhost:9090/h2-console/ and In the JDBC URL field, type jdbc:h2:mem:testdb to configure the connection to the testdb database in RAM.
+
